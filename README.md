@@ -1,5 +1,11 @@
 # My mac
 
+## Hardware
+
+* MacBook Air
+  * 15インチ、M2、2023
+  * 24 GB
+
 ## OS
 
 | From       | To         | macOS   | Version      |
